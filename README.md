@@ -1,6 +1,6 @@
 Cloud Data Engineer Role Assignment
 
-For this assignment i'm using Snowflake to warehouse that data.
+For this assessment i'm using Snowflake to warehouse that data.
 
 Prerequisite Steps :- 
 
