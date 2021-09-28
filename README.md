@@ -13,3 +13,6 @@ Prerequisite Steps :-
 
 Run the following scripts for desired result
 
+1. For assignment -1 kindly run script Assignment_1
+2. For assignment -3 kindly run script Assignment_3
+
