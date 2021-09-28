@@ -13,6 +13,10 @@ Prerequisite Steps :-
 
 Run the following scripts for desired result
 
-1. For assignment -1 kindly run script Assignment_1
-2. For assignment -3 kindly run script Assignment_3
+1. For Assessment -1 kindly run script Assignment_1
+2. For Assessment -2 I tried to pivot that data but i think i need some more information for Assessment 2
+3. For Assessment -3 kindly run script Assignment_3
 
+
+
+Sample output file attached.
